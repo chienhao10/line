@@ -1,6 +1,6 @@
 {
   "infouser1": "https://raw.githubusercontent.com/chienhao10/line/master/auth1.json,1503162980",
-  "infouser2": "https://raw.githubusercontent.com/cttbot/Port/master/auth2.json,1503162980",
+  "infouser2": "https://raw.githubusercontent.com/CjShu/Check/master/CjAio.json,1503162980",
   "infouser3": "https://raw.githubusercontent.com/cttbot/Port/master/auth3.json,1503162980",
   "infouser4": "https://raw.githubusercontent.com/cttbot/Port/master/auth4.json,1503162980",
   "infouser5": "https://raw.githubusercontent.com/cttbot/Port/master/auth5.json,1503162980",
